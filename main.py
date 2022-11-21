@@ -14,7 +14,7 @@ def alexsandrov():
     print('alexsandrov')
 
 def ivanov():
-    pass
+    print(' 3, 2, 1, aaaadios!')
 
 def mihailov():
     print('I love world')
