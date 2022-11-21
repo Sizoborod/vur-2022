@@ -26,5 +26,5 @@ def burmistrova():
     pass
 
 def yakovlev():
-    pass
+    print('hello')
 
