@@ -1,2 +1,2 @@
-print('Hello world!')
-print('Привет яндекс!')
+print('Hello world')
+print('Привет я Дима')
