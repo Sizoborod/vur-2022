@@ -14,7 +14,7 @@ def alexsandrov():
     pass
 
 def ivanov():
-    pass
+    print(' 3, 2, 1, aaaadios!')
 
 def mihailov():
     pass
