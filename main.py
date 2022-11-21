@@ -11,7 +11,7 @@ def nikitin():
     print('что-то')
 
 def alexsandrov():
-    pass
+    print('alexsandrov')
 
 def ivanov():
     pass
