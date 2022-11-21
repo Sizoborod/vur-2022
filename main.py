@@ -23,7 +23,7 @@ def voshnyaev():
     print('я на связи')
 
 def burmistrova():
-    pass
+    print('ann')
 
 def yakovlev():
     pass
