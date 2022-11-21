@@ -17,7 +17,7 @@ def ivanov():
     pass
 
 def mihailov():
-    pass
+    print('I love world')
 
 def voshnyaev():
     pass
