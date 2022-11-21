@@ -8,7 +8,7 @@ print('ладно')
 
 
 def nikitin():
-    pass
+    print('что-то')
 
 def alexsandrov():
     pass
