@@ -20,7 +20,7 @@ def mihailov():
     print('I love world')
 
 def voshnyaev():
-    pass
+    print("чечня на связи")
 
 def burmistrova():
     pass
